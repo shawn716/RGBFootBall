@@ -1,0 +1,16 @@
+{
+    "BallList": [
+        {
+            "color": "red",
+            "velocity": 5.0
+        },
+        {
+            "color": "green",
+            "velocity": 7.0
+        },
+        {
+            "color": "blue",
+            "velocity": 10.0
+        }
+    ]
+}
